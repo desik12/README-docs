@@ -4,7 +4,7 @@
 
 <div> </div>
 
-[Comentario]()
+[Comentario](https://github.com/Pandaxyz-xd/README.md-template/blob/main/comentario.md)
 
 <div> </div>
 
